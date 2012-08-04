@@ -1,1 +1,1 @@
-Javascript as Lisp -  Implemention of <Land of Lisp> in both lisp and javascript(Nodejs).
+Real time simulation of the geographical position of the country of Ethiopia and its neighbors
